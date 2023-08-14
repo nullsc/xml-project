@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="https://titan.dcs.bbk.ac.uk/~bcamp13/wd/wdtma/recipes.xsl" ?>
+
+<recipes
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="https://titan.dcs.bbk.ac.uk/~bcamp13/wd/wdtma/recipes.xsd" >
+
+	<recipe id="1">
+		<title>Gooseberry crème brûlée tart</title>
+		<author>Barney Desmazery</author>
+		<prep_time>10</prep_time>
+		<cook_time>80</cook_time>
+		<serves>8</serves>
+		<difficulty>Moderate</difficulty>
+		<description>Seasonal berries and sweet pastry make a stunning dessert for a dinner party - blowtorch for a beautifully crisp cracked sugar topping</description>
+		<ingredients>
+			<ingredient>450g gooseberries</ingredient>
+			<ingredient>200g white caster sugar</ingredient>
+			<ingredient>4 eggs</ingredient>
+			<ingredient>100ml double cream</ingredient>
+			<ingredient>500g block sweet pastry</ingredient>
+			<ingredient>flour for dusting</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="2">
+		<title>One-pan jerk roast chicken</title>
+		<author>Cassie Best</author>
+		<prep_time>30</prep_time>
+		<cook_time>130</cook_time>
+		<serves>4-6</serves>
+		<difficulty>Easy</difficulty>
+		<description>Add some spice to your Sunday lunch by marinating your bird, then use the juices to create a coconut veggie curry to serve alongside</description>
+		<ingredients>
+			<ingredient>1.5kg whole chicken</ingredient>
+			<ingredient>1 red onion</ingredient>
+			<ingredient>5 garlic cloves</ingredient>
+			<ingredient>400ml coconut milk</ingredient>
+			<ingredient>4 sweet potatoes</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="3">
+		<title>Roast sirloin of beef</title>
+		<author>Gary Rhodes</author>
+		<prep_time>10</prep_time>
+		<cook_time>150</cook_time>
+		<serves>6</serves>
+		<difficulty>Easy</difficulty>
+		<description>Gary Rhodes' delicious, succulent roast beef dish is perfect for a Boxing Day lunch or an alternative Christmas Day roast. And it only calls for four ingredients!</description>
+		<ingredients>
+			<ingredient>2 tbsp vegetable oil or beef fat</ingredient>
+			<ingredient>1-1.5kg/2lb 4-3lb 5oz sirloin of beef joint</ingredient>
+			<ingredient>1 glass red wine</ingredient>
+			<ingredient>400g can beef consommé</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="4">
+		<title>Haddock and leek au gratin with sweetcorn mash</title>
+		<author>Sara Buenfeld</author>
+		<prep_time>10</prep_time>
+		<cook_time>50</cook_time>
+		<serves>2</serves>
+		<difficulty>Easy</difficulty>
+		<description>Leek and spinach are layered up with white fish fillets and cheese sauce then topped with golden mash in this delicious, low-fat oven bake.</description>
+		<ingredients>
+			<ingredient>350g potatoes</ingredient>
+			<ingredient>195g can sweetcorn</ingredient>
+			<ingredient>240g spinach</ingredient>
+			<ingredient>2 leeks</ingredient>
+			<ingredient>300ml skimmed milk</ingredient>
+			<ingredient>15g plain flour</ingredient>
+			<ingredient>75g mature cheese</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="5">
+		<title>Cheesy mushroom omelette</title>
+		<author>Good Food Team</author>
+		<prep_time>5</prep_time>
+		<cook_time>10</cook_time>
+		<serves>1</serves>
+		<difficulty>Easy</difficulty>
+		<description>Whip up a tasty omelette with this recipe</description>
+		<ingredients>
+			<ingredient>2 eggs</ingredient>
+			<ingredient>1 tbsp olive oil</ingredient>
+			<ingredient>handful button or chestnut mushrooms, sliced</ingredient>
+			<ingredient>25g vegetarian cheddar, grated</ingredient>
+			<ingredient>small handful parsley leaves, roughly chopped</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="6">
+		<title>One-pan pasta</title>
+		<author>Liberty Mendez</author>
+		<prep_time>5</prep_time>
+		<cook_time>30</cook_time>
+		<serves>4</serves>
+		<difficulty>Easy</difficulty>
+		<description>Save on washing up with this easy and quick one-pan spaghetti dish with meatballs and a tomato sauce. It's both healthy and low in calories</description>
+		<ingredients>
+			<ingredient>1 tbsp rapeseed oil</ingredient>
+			<ingredient>12 meatballs (300g)</ingredient>
+			<ingredient>1 onion</ingredient>
+			<ingredient>3 garlic cloves</ingredient>
+			<ingredient>2 tbsp ketchup</ingredient>
+			<ingredient>2 x 400g cans chopped tomatoes</ingredient>
+			<ingredient>225g dried spaghetti</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="7">
+		<title>Sausage ragu</title>
+		<author>Esther Clark</author>
+		<prep_time>5</prep_time>
+		<cook_time>45</cook_time>
+		<serves>4</serves>
+		<difficulty>Easy</difficulty>
+		<description>Feed the family this comforting, budget-friendly sausage ragu with pasta. You can freeze the leftovers for another time and it tastes just as good</description>
+		<ingredients>
+			<ingredient>1 onion</ingredient>
+			<ingredient>3 tbsp olive oil</ingredient>
+			<ingredient>2 large garlic cloves, crushed</ingredient>
+			<ingredient>2 x 400g cans chopped tomatoes</ingredient>
+			<ingredient>1 tbsp brown sugar</ingredient>
+			<ingredient>6 pork sausages</ingredient>
+			<ingredient>150ml whole milk</ingredient>
+			<ingredient>350g rigatoni pasta</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="8">
+		<title>Pork souvlaki</title>
+		<author>Esther Clark</author>
+		<prep_time>15</prep_time>
+		<cook_time>10</cook_time>
+		<serves>4</serves>
+		<difficulty>Moderate</difficulty>
+		<description>Serve our speedy pork souvlaki skewers when you’re in need of a quick and easy midweek meal. Serve with flatbreads and yogurt and chilli sauces on the side</description>
+		<ingredients>
+			<ingredient>400g lean pork shoulder</ingredient>
+			<ingredient>1 tbsp olive oil</ingredient>
+			<ingredient>½ tbsp dried oregano</ingredient>
+			<ingredient>1 lemon</ingredient>
+			<ingredient>½ tsp hot paprika</ingredient>
+			<ingredient>100ml fat-free yogurt</ingredient>
+			<ingredient>1 small garlic clove</ingredient>
+			<ingredient>2 red peppers</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="9">
+		<title>Chicken pasta bake</title>
+		<author>John Barnes</author>
+		<prep_time>30</prep_time>
+		<cook_time>45</cook_time>
+		<serves>6</serves>
+		<difficulty>Difficult</difficulty>
+		<description>Enjoy this gooey cheese and chicken pasta bake for the ultimate weekday family dinner. Serve straight from the dish with a dressed green salad </description>
+		<ingredients>
+			<ingredient>4 tbsp olive oil</ingredient>
+			<ingredient>1 onion , finely chopped</ingredient>
+			<ingredient>2 garlic cloves</ingredient>
+			<ingredient>2 x 400g cans chopped tomatoes</ingredient>
+			<ingredient>1 tsp caster sugar</ingredient>
+			<ingredient>6 tbsp mascarpone</ingredient>
+			<ingredient>4 skinless chicken breasts</ingredient>
+			<ingredient>300g penne</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="10">
+		<title>Peanut butter pancakes</title>
+		<author>Liberty Mendez</author>
+		<prep_time>10</prep_time>
+		<cook_time>20</cook_time>
+		<serves>12</serves>
+		<difficulty>Easy</difficulty>
+		<description>Try pancakes with a sweet, crunchy peanut butter sauce – perfect for Pancake Day, a weekend brunch or even dessert</description>
+		<ingredients>
+			<ingredient>2 large eggs</ingredient>
+			<ingredient>250g crunchy peanut butter</ingredient>
+			<ingredient>6 tbsp maple syrup</ingredient>
+			<ingredient>300g self-raising flour</ingredient>
+			<ingredient>1 tsp baking powder</ingredient>
+			<ingredient>1 tbsp golden caster sugar</ingredient>
+			<ingredient>350ml milk</ingredient>
+			<ingredient>50g unsalted butter</ingredient>
+		</ingredients>
+	</recipe>
+	
+	<recipe id="11">
+		<title>Chorizo and mozzarella gnocchi bake</title>
+		<author>Marianne Turner</author>
+		<prep_time>10</prep_time>
+		<cook_time>25</cook_time>
+		<serves>6</serves>
+		<difficulty>Difficult</difficulty>
+		<description>Upgrade cheesy tomato pasta with gnocchi, chorizo and mozzarella for a comforting bake that makes an excellent midweek meal</description>
+		<ingredients>
+			<ingredient>1 tbsp olive oil</ingredient>
+			<ingredient>1 onion , finely chopped</ingredient>
+			<ingredient>2 garlic cloves , crushed</ingredient>
+			<ingredient>120g chorizo , diced</ingredient>
+			<ingredient>2 x 400g cans chopped tomatoes</ingredient>
+			<ingredient>600g fresh gnocchi</ingredient>
+			<ingredient>125g mozzarella ball, cut into chunks</ingredient>
+			<ingredient>small bunch of basil</ingredient>
+		</ingredients>
+	</recipe>
+</recipes>

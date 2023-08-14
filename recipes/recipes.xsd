@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="recipes">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="recipe" type="recipeType" minOccurs="1" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+
+<xs:complexType name="recipeType">
+	<xs:sequence>
+		<xs:element name="title" type="xs:string" minOccurs="1" maxOccurs="1" />
+		<xs:element name="author" type="xs:string" minOccurs="1" maxOccurs="1" />
+		<xs:element name="prep_time" type="xs:positiveInteger" minOccurs="1" maxOccurs="1" />
+		<xs:element name="cook_time" type="xs:positiveInteger" minOccurs="1" maxOccurs="1" />
+		<xs:element name="serves" type="xs:string" minOccurs="1" maxOccurs="1" />
+			
+		<xs:element name="difficulty">
+			<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Easy" />
+						<xs:enumeration value="Moderate" />
+						<xs:enumeration value="Difficult" />
+					</xs:restriction>
+			</xs:simpleType>
+		</xs:element>
+		
+		<xs:element name="description" type="xs:string"/>
+		<xs:element name="ingredients" type="IngredientType"/> <!--  -->
+	</xs:sequence>
+	<xs:attribute name="id" type="xs:positiveInteger"/> <!-- recipe ID attribute -->
+</xs:complexType>
+
+
+
+<xs:complexType name="IngredientType">
+	<xs:sequence>
+		<xs:element name="ingredient" type="xs:string" minOccurs="1" maxOccurs="unbounded" />
+	</xs:sequence>
+</xs:complexType>
+</xs:schema>
