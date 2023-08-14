@@ -1,0 +1,39 @@
+* {
+	font-family: Arial;
+}
+
+body {
+	background-color: #fafafa;
+}
+
+table {
+	width: 90%;
+	border-collapse: collapse;
+	margin: 0 auto; /* center table */
+	border: 1px solid black;
+}
+
+th {
+	font-weight: bold;
+	padding: 5px;
+	background-color: #b3b3ff;
+	color: white;
+	text-align: left;
+	font-size: 1.5em;
+}
+
+th, td {
+	/*border: 1px solid black; */
+	word-wrap: break-word; /* word wrapping */
+	padding: 0 5px;
+}
+
+tr:nth-child(even) { /* table stripes, default is white */
+	background-color: rgba(0, 0, 0, 0.05);
+}
+
+td:first-child { /* Select all left hand cells */
+	width: 180px;
+	border-right: 2px solid #b3b3ff;
+	font-weight: bold;
+}
